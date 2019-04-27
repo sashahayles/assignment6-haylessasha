@@ -27,7 +27,7 @@ p {
 *=========================================*/
 
 header {
-  background: #333;
+  background: #6a2f1a;
   position: fixed;
   left: 0;
   right: 0;
@@ -143,6 +143,7 @@ header nav a {
   text-decoration: none;
   padding: 10px 30px;
   border-radius: 3px;
+  font-size: 20px;
 }
 
 .city:nth-child(even){
